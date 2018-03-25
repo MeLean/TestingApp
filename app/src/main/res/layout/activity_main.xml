@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <com.example.milen.testingapp.ViewPagerCarouselView
         android:id="@+id/carousel_view"
         android:layout_width="match_parent"
